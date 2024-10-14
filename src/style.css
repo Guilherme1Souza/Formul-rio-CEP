@@ -49,19 +49,16 @@ form input {
   font-size: 14px;
 }
 
-form input:read-only {
-  background-color: #f0f0f0;
-}
-
 button {
   width: 100%;
   padding: 10px;
-  background-color: #007bff;
+  background-color: #4d852a;
   color: white;
   font-size: 16px;
   border: none;
   border-radius: 4px;
   cursor: pointer;
+  margin-top: 22px;
 }
 
 button:hover {
